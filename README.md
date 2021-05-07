@@ -160,7 +160,7 @@ endpoints that are enabled for each API route, and the functions they serve.
 
 ○
 
-GET - returns response ‘Welcome to the Spotify Top Charts API!'
+    GET - returns response ‘Welcome to the Spotify Top Charts API!'
 
 **/playlists**
 
